@@ -1,0 +1,26 @@
+Asus	Machine Date	01-01-2011	pwgen-asus.py
+
+Compaq	5 decimal digits	12345	pwgen-compaq.py
+
+Fujitsu-Siemens	5 decimal digits	12345	pwgen-Fujitsu-Siemens.py
+
+Fujitsu-Siemens	8 hexadecimal digits	DEADBEEF	pwgen-fsi-hex1.py
+
+Fujitsu-Siemens	5x4 hexadecimal digits	AAAA-BBBB-CCCC-DEAD-BEEF	pwgen-fsi-hex2.py
+
+Fujitsu-Siemens	5x4 decimal digits	1234-4321-1234-4321-1234	pwgen-fsi-5x4dec.py
+
+Fujitsu-Siemens	6x4 decimal digits	8F16-1234-4321-1234-4321-1234	pwgen-fsi-6x4dec.py
+Hewlett-Packard	5 decimal digits	12345	pwgen-5dec.py
+
+Hewlett-Packard/Compaq Netbooks	10 characters	CNU1234ABC	pwgen-hpmini.py
+
+Insyde H20 (generic)	8 decimal digits	03133610	pwgen-insyde.py
+
+Phoenix (generic)	5 decimal digits	12345	pwgen-5dec.py
+
+Sony	4x4 hexadecimal digits	1234-1234-1234-1234	pwgen-sony-4x4.py
+
+Sony	7 digit serial number	1234567	pwgen-sony-serial.py
+
+Samsung	12 hexadecimal digits	07088120410C0000	pwgen-samsung.py
